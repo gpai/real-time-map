@@ -1,0 +1,44 @@
+* {
+	font-family:"Calibri";
+}
+
+h3{
+	margin:0;
+}
+
+td {
+	border:1px solid black;
+}
+
+table {
+
+	width:100%;
+	border-collapse: collapse;
+}
+
+.container {
+	margin:0 0;
+	width: 100%;
+}
+
+.table {
+	margin: 0 0;
+	width: 59%;
+	float: right;
+	height: 590px;
+	overflow: auto;
+}
+
+.mapTemplate {
+	margin:0 0;
+	width:39%;
+	height: 590px;
+	border:black;
+	display: inline-block;
+}
+.panel{
+	text-align: center;
+	margin:0;
+}
+
+
